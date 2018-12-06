@@ -1,4 +1,4 @@
 <?php
-echo "Auto deploy Test"
-echo "Auto push test"
+echo "Auto deploy Test";
+echo "Auto push test";
  ?>
